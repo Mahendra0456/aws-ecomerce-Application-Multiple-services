@@ -35,7 +35,7 @@ sudo systemctl start nginx
 cd /home/ec2-user
 
 if [ ! -d "aws-ecomerce-Application-Multiple-services" ]; then
-    git clone https://github.com/CloudTechDevOps/aws-ecomerce-Application-Multiple-services.git
+    git clone https://github.com/Mahendra0456/aws-ecomerce-Application-Multiple-services.git
 fi
 
 ############################################
